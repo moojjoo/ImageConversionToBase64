@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ImageConverter", "ImageConverter\ImageConverter.vbproj", "{BDEEFA33-BCCB-41A9-8F94-32B9F70FBF48}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ssitfs01:8080/tfs/ssiweb
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ImageConverter\\ImageConverter.vbproj
+		SccProjectName1 = ImageConverter
+		SccLocalPath1 = ImageConverter
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDEEFA33-BCCB-41A9-8F94-32B9F70FBF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDEEFA33-BCCB-41A9-8F94-32B9F70FBF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDEEFA33-BCCB-41A9-8F94-32B9F70FBF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDEEFA33-BCCB-41A9-8F94-32B9F70FBF48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
